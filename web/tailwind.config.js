@@ -1,5 +1,5 @@
 module.exports = {
-    content: ["./src/**/*.tsx"],
+    content: ["./src/**/*.{js,jsx,ts,tsx}"],
     theme: {
         extend: {
             colors: {
@@ -14,7 +14,7 @@ module.exports = {
         },
     },
     plugins: [
-        require('@tailwindcss/forms'),
-        require('@tailwind-scrollbar')
+        require("@tailwindcss/forms"),
+        //require('tailwind-scrollbar')
     ],
 }
