@@ -4,6 +4,8 @@
 
 Aplicativo criado em um evento da RocketSeat. Em que foi criado um componente para registro de problemas em uma plataforma.
 
+![image](https://github.com/MauricioAndreolla/nlw-return-impulse/assets/44854911/ec4aa5bf-10b2-45dd-9fc0-eb8f2b4f96c7)
+
 ## 🔨 Tecnologias Utilizadas
 
  **Vite | React JS | Typescript | Tailwind | Prima ORM**
@@ -26,7 +28,7 @@ Rodando a aplicação
 ```
 npm run dev
 ```
-Logo após será necessário configurar o banco de dados através da aba de configuração de acordo com sua instância instalada no computador.
+Logo após será necessário configurar o banco de dados de sua preferência, assim como as configuções do **Prisma**
 
 ### Link de acesso ao aplicativo
 
